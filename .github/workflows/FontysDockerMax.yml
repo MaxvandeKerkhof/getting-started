@@ -77,6 +77,10 @@ github.run_number }}
             location: 'west europe' 
  
             ports: '3000' 
-            azure-file-volume-account-name: 'markscontainerappstorage'
-            azure-file-volume-account-key: 'Nk6W4e2h/yDUSJzg7asO1KT7W9ObQWvgUduTWmdIF/lHY91q4AjOAKdKa6Feq/B0eewVsrq+iiHX+AStVOH9Ow=='
+            azure-file-volume-share-name: 'maxshare'
+
+            azure-file-volume-account-name: 'containermaxfontys'
+
+            azure-file-volume-account-key: 'eb/eQYybkQZpjrXVBsbFKMp9aVxY88dITvkkXnOAumOnbOcoo38ju2J02ITz35xGEwqzQOroV4Nd+AStDPqX+w=='
+
             azure-file-volume-mount-path: '/etc/todos'
