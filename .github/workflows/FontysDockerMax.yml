@@ -5,7 +5,7 @@ on:
   
 name: GettingStarted_Container_Workflow 
  
- //test
+ //test2
   
 jobs: 
  
@@ -78,10 +78,10 @@ github.run_number }}
  
             ports: '3000' 
             
-            azure-file-volume-share-name: 'maxshare'
+            azure-file-volume-share-name: 'acisharemax'
 
-            azure-file-volume-account-name: 'containermaxfontys'
+            azure-file-volume-account-name: 'maxacrstorage'
 
-            azure-file-volume-account-key: '0N3LNxyIIypd2PWy1pmjO2ECHcioAhOkqy1UjCUlxW5tOJTdocD4oywH8+2MqBTkyMdhTLuJR4DH+ASthdBffw=='
+            azure-file-volume-account-key: 'GBJKKvW5mlwwNxiqH0vUG/ptb47kbpEYWqLnoDEcCnl1qWB5XTGCBl6Sx6IThkX4Ss2MynJx2/Q0+AStsAMVjA=='
 
             azure-file-volume-mount-path: '/etc/todos'
