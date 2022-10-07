@@ -77,8 +77,6 @@ github.run_number }}
             location: 'west europe' 
  
             ports: '3000' 
-            
-            azure-file-volume-share-name: 'acisharemax'
 
             azure-file-volume-account-name: 'maxacrstorage'
 
