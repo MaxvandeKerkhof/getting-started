@@ -77,10 +77,11 @@ github.run_number }}
             location: 'west europe' 
  
             ports: '3000' 
+            
             azure-file-volume-share-name: 'maxshare'
 
             azure-file-volume-account-name: 'containermaxfontys'
 
-            azure-file-volume-account-key: 'eb/eQYybkQZpjrXVBsbFKMp9aVxY88dITvkkXnOAumOnbOcoo38ju2J02ITz35xGEwqzQOroV4Nd+AStDPqX+w=='
+            azure-file-volume-account-key: '0N3LNxyIIypd2PWy1pmjO2ECHcioAhOkqy1UjCUlxW5tOJTdocD4oywH8+2MqBTkyMdhTLuJR4DH+ASthdBffw=='
 
             azure-file-volume-mount-path: '/etc/todos'
